@@ -5,5 +5,6 @@ def main():
     print(a)
     b=np.linspace(0,1,10)
     print(b)
+    print(b)
 if __name__=="__main__":
     main()
